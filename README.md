@@ -1,0 +1,1 @@
+Feito para testes, programa desenvolvido em python para controle de ARMS (coletores de dados), é possivel listar, ordenar, editar, excluir e incluir itens, as informações ficam salvas no disco local em um arquivo .db (coletores_v2.db), não é conectado a internet.
